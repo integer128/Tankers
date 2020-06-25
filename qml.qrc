@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file alias="triangle_green">img/triangle_green.png</file>
+        <file alias="triangle_red">img/triangle_red.png</file>
+    </qresource>
+</RCC>
